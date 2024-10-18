@@ -3,6 +3,8 @@ package handler
 import (
 	"net/http"
 	_ "unsafe"
+
+	_ "github.com/hoppscotch/proxyscotch/libproxy"
 )
 
 //go:linkname proxyHandler github.com/hoppscotch/proxyscotch/libproxy.proxyHandler
