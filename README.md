@@ -7,3 +7,7 @@ Deploy a simple proxy server created for hoppscotch on Vercel.
 ## About Vercel's ToS
 
 Vercel's [Fair use Guidelines](https://vercel.com/docs/limits/fair-use-guidelines) does not allow "Proxies and VPNs" to be deployed on Vercel. However, this project can also be explained as a "Functions that query DBs or APIs", which is legal on Vercel.
+
+## Deploy hoppscotch on Vercel
+
+https://github.com/SunsetMkt/hoppscotch-vercel
